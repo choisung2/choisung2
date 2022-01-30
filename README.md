@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sung2 👋
 
 <!--
 **choisung2/choisung2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
